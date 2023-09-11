@@ -6,7 +6,7 @@ The code is in MATLAB R2023a and implements a 3 layer neural network using the M
 
 The code follows the book ["Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com), mainly the first chapter.
 
-The [MNIST database of handwritten digits](https://github.com/sunsided/mnist) is used in MATLAB format from [this repository](https://github.com/sunsided/mnist-matlab)
+The [MNIST database of handwritten digits](https://github.com/sunsided/mnist) is used in MATLAB format from [this repository](https://github.com/sunsided/mnist-matlab). For this code to run, the database has to be in the same folder as the code.
 
 # Neural Network Parameters
 The Neural Network consist of 3 layers: 
