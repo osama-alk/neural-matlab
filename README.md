@@ -3,6 +3,7 @@
 This was made as a project for my scientific computing class. 
 The code is in MATLAB R2023a and implements a 3 layer neural network using the MNIST database of handwritten digits as the input training data.
 The code follows the book ["Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com), mainly the first chapter.
+The [MNIST database of handwritten digits](https://github.com/sunsided/mnist) is used in MATLAB format from [this repository](https://github.com/sunsided/mnist-matlab)
 
 # Neural Network Parameters
 The Neural Network consist of 3 layers: 
