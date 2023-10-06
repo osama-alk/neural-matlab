@@ -1,4 +1,4 @@
-# Neural network for the recognition of handwritten characters implemented in MATLAB
+# Neural network for the recognition of handwritten digits implemented in MATLAB
 
 This was made as a project for my scientific computing class. 
 
